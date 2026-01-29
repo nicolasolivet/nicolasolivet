@@ -5,7 +5,7 @@ I consider myself a curious person, eager to learn and an effective communicator
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there,+I´m+Nicolas+👋)](https://git.io/typing-svg)-->
 
 👨‍🚀 Technologies that I use
-![Static Badge](https://img.shields.io/badge/:PEPE)
+https://camo.githubusercontent.com/e0aabdb429662f88cabbf566a0b9446ed5714418ab22cc3e4f9252fc0ba5b26d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465
 
 
 🖥️ Frontend

@@ -11,6 +11,7 @@ I consider myself a curious person, eager to learn and an effective communicator
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-%230066cc?style=flat)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-blue?style=flat)
 ![Static Badge](https://img.shields.io/badge/SQLite-darkblue?style=flat)
+![Static Badge](https://img.shields.io/badge/SQLServer-%23ffffff?style=flat)
 ![Static Badge](https://img.shields.io/badge/Javascript-%23ffff00?style=flat)
 ![Static Badge](https://img.shields.io/badge/Vue-JS-brightgreen?style=flat)
 

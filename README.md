@@ -1,5 +1,5 @@
 ## Hi there 👋
-[Your Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 <!--
 **nicolasolivet/nicolasolivet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -5,6 +5,7 @@ I consider myself a curious person, eager to learn and an effective communicator
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there,+I´m+Nicolas+👋)](https://git.io/typing-svg)-->
 
 👨‍🚀 Technologies that I use
+
 ![Static Badge](https://img.shields.io/badge/sarleta)
 
 

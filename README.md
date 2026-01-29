@@ -6,15 +6,15 @@ I consider myself a curious person, eager to learn and an effective communicator
 
 👨‍🚀 Technologies that I use
 
-![Static Badge](https://img.shields.io/badge/.NET-%b814b8?style=flat)
+![Static Badge](https://img.shields.io/badge/.NET-%23b814b8?style=flat)
 ![Static Badge](https://img.shields.io/badge/C%23-purple?style=flat)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-%230066cc?style=flat)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-blue?style=flat)
 ![Static Badge](https://img.shields.io/badge/SQLite-darkblue?style=flat)
 ![Static Badge](https://img.shields.io/badge/Javascript-%23ffff00?style=flat)
 ![Static Badge](https://img.shields.io/badge/Vue-JS-brightgreen?style=flat)
 
-
-                  
+   
 Contact me
 📩 Email: nicolasolivet93@gmail.com
 <!--🌐 Portafolio: portafolio-bengelsdorff.vercel.app-->

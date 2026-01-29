@@ -6,8 +6,11 @@ I consider myself a curious person, eager to learn and an effective communicator
 
 👨‍🚀 Technologies that I use
 
-![Static Badge](https://img.shields.io/badge/sarleta)
-![Static Badge](https://img.shields.io/badge/sarleta)
+![Static Badge](https://img.shields.io/badge/.NET-purple?style=flat)
+![Static Badge](https://img.shields.io/badge/C%23-purple?style=flat)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-blue?style=flat)
+![Static Badge](https://img.shields.io/badge/SQLite-darkblue?style=flat)
+
 
 
 

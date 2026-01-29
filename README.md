@@ -1,6 +1,30 @@
-## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Eran+los+hermanos+jerte)](https://git.io/typing-svg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-link-here)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there,+I´m+Nicolas+👋)](https://git.io/typing-svg)
+My name is Nicolas and I'm a software developer. I´m from Buenos Aires, Argentina. I started in the world of programming almost two years ago. I am currently working as a freelance developer with three other colleagues on an educational platform whose goal is to prevent primary and secondary school students from dropping out.
+I consider myself a curious person, eager to learn and an effective communicator. I am actively looking for a team where I can learn and contribute from day one.
+
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there,+I´m+Nicolas+👋)](https://git.io/typing-svg)-->
+
+👨‍🚀 Technologies that I use
+![Static Badge](https://img.shields.io/badge/:PEPE)
+
+
+🖥️ Frontend
+       
+
+⚙️ Backend
+ 
+
+🗄️ Bases de Datos
+    
+
+🔧 Herramientas & Otras Tecnologías
+                  
+
+📫 Contact me
+📩 Email: nicolasolivet93@gmail.com
+💼 
+<!--🌐 Portafolio: portafolio-bengelsdorff.vercel.app-->
+
 <!--
 **nicolasolivet/nicolasolivet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

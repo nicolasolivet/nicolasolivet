@@ -1,12 +1,11 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there,+I´m+Nicolas+👋)](https://git.io/typing-svg)
 I'm a software developer with a clear focus: building robust solutions that drive business. With practical experience in the .NET ecosystem, I specialise in developing secure REST APIs (JWT) and Vue.js for dynamic interfaces. 
 My experience has taught me that code should not only work, but also be scalable and user-centric. I seek to make an impact and continue to evolve in challenging environments. I have adopted modern development methodologies using Cline AI and Claude Code for prototyping acceleration, code refactoring, and workflow optimisation, ensuring agile deliveries without compromising technical quality. My approach combines clean architecture with a user-oriented mindset and an impact on teamwork.
-As a hobby, I'm currently studying robotics and delving into computer networking and servers. 
+
+- 🤖 As a hobby, I'm currently studying robotics and delving into computer networking and servers.
 
 
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there,+I´m+Nicolas+👋)](https://git.io/typing-svg)-->
-
-👨‍🚀 Technologies that I use
+👨‍💻 Technologies that I use
 
 ![Static Badge](https://img.shields.io/badge/.NET-%23b814b8?style=flat)
 ![Static Badge](https://img.shields.io/badge/C%23-purple?style=flat)
